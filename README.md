@@ -1,7 +1,9 @@
 # Flavour_metabolites
-Scripts associated with chapter six for the analysis of glasshouse environment data, flavour and metabolite analysis, calculating vegetation indices from fieldspec data, modelling between variables
+Scripts associated with the analysis of Lemna and Spirodela duckweed species and ecotypes scaled up for growth and nutritonal comparisons in a glasshouse experiment. 
+Scripts relate to the following manuscript: "Aroma and metabolite profiling in duckweeds: exploring species and ecotypic variation to enable wider adoption as a food crop" available at: https://doi.org/10.1016/j.jafr.2024.101263
+The following scripts include analysis of the glasshouse environment, statistics and graphs for aroma and metabolite analysis and calculating vegetation indices from fieldspec data, including modelling between variables
 
-R scripts for the following:
+R scripts are included for the following:
 
 1. Glasshouse environment – temperature line plot, statistics of light.
 2. Greenness and coverage between accessions
